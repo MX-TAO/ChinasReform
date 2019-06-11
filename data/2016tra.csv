@@ -1,0 +1,318 @@
+﻿北京市,Beijing,19044,,1582358
+天津市,Tianjin,33724,9910,80000
+河北省,Hebei,,,
+  石家庄市,  Shijiazhuang,36954,,25341
+  唐山市,  Tangshan,36358,1182,734
+  秦皇岛市,  Qinhuangdao,5276,470,330
+  邯郸市,  Handan,38704,,397
+  邢台市,  Xingtai,18711,,
+  保定市,  Baoding,10331,,
+  张家口市,  Zhangjiakou,11218,,64
+  承德市,  Chengde,4152,,
+  沧州市,  Cangzhou,19942,1214,
+  廊坊市,  Langfang,9918,,
+  衡水市,  Hengshui,6454,,
+山西省,Shanxi,,,
+  太原市,  Taiyuan,14286,,45500
+  大同市,  Datong,8603,,4058
+  阳泉市,  Yangquan,4417,,
+  长治市,  Changzhi,7959,,2800
+  晋城市,  Jincheng,5385,,
+  朔州市,  Shuozhou,2990,,
+  晋中市,  Jinzhong,10363,,
+  运城市,  Yuncheng,8572,,2500
+  忻州市,  Xinzhou,7573,,
+  临汾市,  Linfen,12586,,
+  吕梁市,  Lvliang,6540,1,14
+内蒙古自治区,Inner Mongolia,,,
+  呼和浩特市,  Hohhot,18381,,36078
+  包头市,  Baotou,27255,,3764
+  乌海市,  Wuhai,6409,,1385
+  赤峰市,  Chifeng,12391,,2589
+  通辽市,  Tongliao,10105,,3395
+  鄂尔多斯市,  Erdos,18951,,11000
+  呼伦贝尔市,  Hulunbuir,10953,,14700
+  巴彦淖尔市,  Bayannur,9666,,1401
+  乌兰察布市,  Ulanqab,5842,,
+辽宁省,Liaoning,,,
+  沈阳市,  Shenyang,20873,,65200
+  大连市,  Dalian,26283,12523,70056
+  鞍山市,  Anshan,18669,,
+  抚顺市,  Fushun,8524,,
+  本溪市,  Benxi,7593,,
+  丹东市,  Dandong,7740,427,
+  锦州市,  Jinzhou,15836,150,
+  营口市,  Yingkou,14982,270,
+  阜新市,  Fuxin,4441,,
+  辽阳市,  Liaoyang,13071,,
+  盘锦市,  Panjin,12552,23,
+  铁岭市,  Tieling,8127,,
+  朝阳市,  Chaoyang,5539,,196
+  葫芦岛市,  Huludao,15883,46,
+吉林省,Jilin,,,
+  长春市,  Changchun,10300,71,52902
+  吉林市,  Jilin,5167,,
+  四平市,  Siping,7600,,
+  辽源市,  Liaoyuan,1673,,
+  通化市,  Tonghua,2084,,249
+  白山市,  Baishan,1009,,1720
+  松原市,  Songyuan,5811,91,
+  白城市,  Baicheng,1446,26,
+黑龙江省,Heilongjiang,,,
+  哈尔滨市,  Harbin,7567,487,43000
+  齐齐哈尔市,  Qiqihar,10403,,77
+  鸡西市,  Jixi,3672,,388
+  鹤岗市,  Hegang,1560,64,
+  双鸭山市,  Shuangyashan,1185,,
+  大庆市,  Daqing,3855,156,1725
+  伊春市,  Yichun,868,,
+  佳木斯市,  Jiamusi,4452,435,1041
+  七台河市,  Qitaihe,1157,,
+  牡丹江市,  Mudanjiang,2749,,
+  黑河市,  Heihe,1065,17,394
+  绥化市,  Suihua,3889,,
+上海市,Shanghai,40627,49770,1449300
+江苏省,Jiangsu,,,
+  南京市,  Nanjing,11985,15188,326026
+  无锡市,  Wuxi,12716,2556,89062
+  徐州市,  Xuzhou,16909,5656,7039
+  常州市,  Changzhou,10668,2178,17619
+  苏州市,  Suzhou,11814,1191,
+  南通市,  Nantong,11091,8104,31345
+  连云港市,  Lianyungang,8215,1826,1436
+  淮安市,  Huai'an,5553,6509,3754
+  盐城市,  Yancheng,4977,11009,3005
+  扬州市,  Yangzhou,6419,5743,6169
+  镇江市,  Zhenjiang,6815,1478,
+  泰州市,  Taizhou,2478,16636,
+  宿迁市,  Suqian,3711,2269,
+浙江省,Zhejiang,,,
+  杭州市,  Hangzhou,23800,5251,424933
+  宁波市,  Ningbo,22906,16771,117000
+  温州市,  Wenzhou,8566,3243,42485
+  嘉兴市,  Jiaxing,9933,8522,
+  湖州市,  Huzhou,7819,5746,
+  绍兴市,  Shaoxing,10866,1405,
+  金华市,  Jinhua,8233,15,13099
+  衢州市,  Quzhou,8936,2,800
+  舟山市,  Zhoushan,6519,18548,320
+  台州市,  Taizhou,9990,11200,3229
+  丽水市,  Lishui,4982,223,
+安徽省,Anhui,,,
+  合肥市,  Hefei,27578,4907,27723
+  芜湖市,  Wuhu,6464,19586,
+  蚌埠市,  Bengbu,19448,15018,
+  淮南市,  Huainan,12522,3917,
+  马鞍山市,  Maanshan,8514,6957,
+  淮北市,  Huaibei,14686,,
+  铜陵市,  Tongling,3563,2425,
+  安庆市,  Anqing,11498,5310,846
+  黄山市,  Huangshan,4491,17,2102
+  滁州市,  Chuzhou,26063,2596,
+  阜阳市,  Fuyang,54526,1391,567
+  宿州市,  Suzhou,20791,1317,
+  六安市,  Lu'an,28855,11897,
+  亳州市,  Bozhou,24519,3965,
+  池州市,  Chizhou,4468,5169,
+  宣城市,  Xuancheng,11017,11043,
+福建省,Fujian,,,
+  福州市,  Fuzhou,16971,8925,116497
+  厦门市,  Xiamen,18680,7372,310600
+  莆田市,  Putian,4443,643,
+  三明市,  Sanming,8544,,
+  泉州市,  Quanzhou,13524,9341,43000
+  漳州市,  Zhangzhou,10403,2040,
+  南平市,  Nanping,3089,94,2372
+  龙岩市,  Longyan,10805,50,448
+  宁德市,  Ningde,3276,920,
+江西省,Jiangxi,,,
+  南昌市,  Nanchang,12593,1050,51000
+  景德镇市,  Jingdezhen,2144,20,2000
+  萍乡市,  Pingxiang,3069,,
+  九江市,  Jiujiang,12250,1262,112
+  新余市,  Xinyu,15603,38,
+  鹰潭市,  Yingtan,3565,491,
+  赣州市,  Ganzhou,18338,1606,6059
+  吉安市,  Ji'an,9685,1841,3006
+  宜春市,  Yichun,17628,2474,233
+  抚州市,  Fuzhou,15899,155,
+  上饶市,  Shangrao,20354,808,
+山东省,Shandong,,,
+  济南市,  Jinan,20419,173,41460
+  青岛市,  Qingdao,18900,1406,208064
+  淄博市,  Zibo,16796,,
+  枣庄市,  Zaozhuang,4804,976,
+  东营市,  Dongying,4958,230,410
+  烟台市,  Yantai,17033,3739,20000
+  潍坊市,  Weifang,21631,1475,20501
+  济宁市,  Jining,24019,3851,1171
+  泰安市,  Tai'an,6114,36,
+  威海市,  Weihai,6333,1668,5251
+  日照市,  Rizhao,6942,885,
+  莱芜市,  Laiwu,6919,,
+  临沂市,  Linyi,26843,,5009
+  德州市,  Dezhou,12231,,
+  聊城市,  Liaocheng,15578,,
+  滨州市,  Binzhou,11950,203,
+  菏泽市,  Heze,13066,188,
+河南省,Henan,,,
+  郑州市,  Zhengzhou,21813,,103000
+  开封市,  Kaifeng,2762,3,
+  洛阳市,  Luoyang,17524,57,1510
+  平顶山市,  Pingdingshan,9705,,
+  安阳市,  Anyang,12199,,
+  鹤壁市,  Hebi,5434,,
+  新乡市,  Xinxiang,16656,,
+  焦作市,  Jiaozuo,15566,,
+  濮阳市,  Puyang,3365,245,
+  许昌市,  Xuchang,6438,,
+  漯河市,  Luohe,5762,402,
+  三门峡市,  Sanmenxia,4463,,
+  南阳市,  Nanyang,17765,778,4200
+  商丘市,  Shangqiu,16000,401,
+  信阳市,  Xinyang,6723,3999,
+  周口市,  Zhoukou,15842,2377,
+  驻马店市,  Zhumadian,9758,3078,
+湖北省,Hubei,,,
+  武汉市,  Wuhan,28496,13100,108900
+  黄石市,  Huangshi,5603,1427,
+  十堰市,  Shiyan,5145,394,
+  宜昌市,  Yichang,8843,4870,9395
+  襄阳市,  Xiangyang,25632,1172,2379
+  鄂州市,  Ezhou,1435,629,
+  荆门市,  Jingmen,7167,65,
+  孝感市,  Xiaogan,3103,335,
+  荆州市,  Jingzhou,7361,6686,
+  黄冈市,  Huanggang,7160,3409,
+  咸宁市,  Xianning,8304,10,
+  随州市,  Suizhou,6202,26,
+湖南省,Hunan,,,
+  长沙市,  Changsha,30412,3007,59774
+  株洲市,  Zhuzhou,14110,802,
+  湘潭市,  Xiangtan,5268,967,
+  衡阳市,  Hengyang,17659,1221,355
+  邵阳市,  Shaoyang,25012,637,
+  岳阳市,  Yueyang,17665,9480,
+  常德市,  Changde,11808,2436,190
+  张家界市,  Zhangjiajie,2033,433,914
+  益阳市,  Yiyang,9439,2992,
+  郴州市,  Chenzhou,20353,192,
+  永州市,  Yongzhou,6419,587,48
+  怀化市,  Huaihua,5701,332,25
+  娄底市,  Loudi,10751,543,
+广东省,Guangdong,,,
+  广州市,  Guangzhou,71284,23007,1163981
+  韶关市,  Shaoguan,14356,4662,
+  深圳市,  Shenzhen,24774,7557,771100
+  珠海市,  Zhuhai,9918,1709,12300
+  汕头市,  Shantou,4819,937,21800
+  佛山市,  Foshan,25318,4110,2042
+  江门市,  Jiangmen,9471,3706,
+  湛江市,  Zhanjiang,12962,3566,4200
+  茂名市,  Maoming,9353,542,
+  肇庆市,  Zhaoqing,5723,1580,
+  惠州市,  Huizhou,11016,12419,
+  梅州市,  Meizhou,7177,49,
+  汕尾市,  Shanwei,2333,11,
+  河源市,  Heyuan,6495,15,
+  阳江市,  Yangjiang,9025,1010,
+  清远市,  Qingyuan,13635,2632,
+  东莞市,  Dongguan,10469,4916,
+  中山市,  Zhongshan,14758,3205,
+  潮州市,  Chaozhou,4072,856,
+  揭阳市,  Jieyang,3870,28,40070
+  云浮市,  Yunfu,4292,1026,
+广西壮族自治区,Guangxi,,,
+  南宁市,  Nanning,26650,3263,50000
+  柳州市,  Liuzhou,14650,809,1735
+  桂林市,  Guilin,7983,181,17200
+  梧州市,  Wuzhou,5229,2371,15
+  北海市,  Beihai,6435,696,3012
+  防城港市,  Fangchenggang,3449,1302,
+  钦州市,  Qinzhou,9722,2361,
+  贵港市,  Guigang,7961,12918,
+  玉林市,  Yulin,18766,133,
+  百色市,  Baise,8053,300,
+  贺州市,  Hezhou,3800,141,
+  河池市,  Hechi,5743,16,62
+  来宾市,  Laibin,2041,769,
+  崇左市,  Chongzuo,3787,28,
+海南省,Hainan,,,
+  海口市,  Haikou,3558,6929,298600
+  三亚市,  Sanya,1625,11,26900
+  三沙市,  Sansa,,3,
+  儋州市,  Danzhou,488,,
+重庆市,Chongqing,86931,15040,121796
+四川省,Sichuan,,,
+  成都市,  Chengdu,25563,,268323
+  自贡市,  Zigong,4795,224,
+  攀枝花市,  Panzhihua,9232,17,420
+  泸州市,  Luzhou,6503,1984,2868
+  德阳市,  Deyang,9093,,
+  绵阳市,  Mianyang,5029,,12632
+  广元市,  Guangyuan,4600,1086,1367
+  遂宁市,  Suining,3997,220,
+  内江市,  Neijiang,2790,321,
+  乐山市,  Leshan,11279,308,
+  南充市,  Nanchong,5646,1519,2930
+  眉山市,  Meishan,6620,,
+  宜宾市,  Yibin,5071,832,2881
+  广安市,  Guang'an,284873,365,
+  达州市,  Dazhou,11841,451,1800
+  雅安市,  Ya'an,4987,,
+  巴中市,  Bazhong,2251,332,
+  资阳市,  Ziyang,5468,750,
+贵州省,Guizhou,,,
+  贵阳市,  Guiyang,30915,4,87200
+  六盘水市,  Liupanshui,,80,213
+  遵义市,  Zunyi,35954,783,176
+  安顺市,  Anshun,6068,3,1156
+  毕节市,  Bijie,,5,814
+  铜仁市,  Tongren,2998,37,
+云南省,Yunnan,,,
+  昆明市,  Kunming,26528,51,355000
+  曲靖市,  Qujing,1352,,
+  玉溪市,  Yuxi,10300,,
+  保山市,  Baoshan,3762,,1619
+  昭通市,  Zhaotong,4009,316,196
+  丽江市,  Lijiang,2647,,8292
+  普洱市,  Pu'er,3887,10,771
+  临沧市,  Lincang,3278,,
+西藏自治区,Tibet,,,
+  拉萨市,  Lasa,990,,
+陕西省,Shaanxi,,,
+  西安市,  Xi'an,45401,,211589
+  铜川市,  Tongchuan,5036,,
+  宝鸡市,  Baoji,11234,,
+  咸阳市,  Xianyang,11416,,
+  渭南市,  Weinan,14970,76,
+  延安市,  Yan'an,6187,,181
+  汉中市,  Hanzhong,7608,,132
+  榆林市,  Yulin,16694,,3415
+  安康市,  Ankang,7198,181,
+  商洛市,  Shangluo,3784,,
+甘肃省,Gansu,,,
+  兰州市,  Lanzhou,10915,14,50094
+  嘉峪关市,  Jiayuguan,4468,,1673
+  金昌市,  Jinchang,2501,,115
+  白银市,  Baiyin,7834,,
+  天水市,  Tianshui,2896,,25
+  武威市,  Wuwei,4680,,
+  张掖市,  Zhangye,2666,,103
+  平凉市,  Pingliang,4446,,
+  酒泉市,  Jiuquan,3204,,508
+  庆阳市,  Qingyang,3391,,30
+  定西市,  Dingxi,3487,,
+  陇南市,  Longnan,1756,,
+青海省,Qinghai,,,
+  西宁市,  Xining,6583,,8600
+  海东市,  Haidong,2749,,
+宁夏回族自治区,Ningxia,,,
+  银川市,  Yinchuan,10656,,12600
+  石嘴山市,  Shizuishan,4318,,
+  吴忠市,  Wuzhong,8469,,
+  固原市,  Guyuan,5730,,
+  中卫市,  Zhongwei,2178,40,72
+新疆维吾尔自治区,Xinjiang,,,
+  乌鲁木齐市,  Urumqi,14793,,72100
+  克拉玛依市,  Karamay,3406,,235
